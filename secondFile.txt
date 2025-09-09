@@ -1,5 +1,5 @@
-ok, this is line 1 from secondFile
-line2 from secondFile
+ok, this is an updated line 1 from secondFile
+updated line2 from secondFile
 line3 from secondFile
 line4 from secondFile
 line5 from secondFile
